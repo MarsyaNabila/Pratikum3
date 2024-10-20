@@ -28,6 +28,7 @@ Print()
 Secara default,fungsi print() akan mengakhiri dengan baris baru,dan akan secara otomatis karakter baris baru di akhir outputnya
 
 inilah hasil program tersebut:
+
 ![WhatsApp Image 2024-10-20 at 14 45 20_8564751e](https://github.com/user-attachments/assets/1b01bff3-22e9-459a-84a0-60b29ba656c4)
 
 
