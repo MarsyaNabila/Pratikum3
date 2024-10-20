@@ -31,4 +31,10 @@ inilah hasil program tersebut:
 
 ![WhatsApp Image 2024-10-20 at 14 45 20_8564751e](https://github.com/user-attachments/assets/1b01bff3-22e9-459a-84a0-60b29ba656c4)
 
+dan ini hasil tanpa menggunakan fungsi print() di tengah pada kode program di atas:
+
+![WhatsApp Image 2024-10-20 at 14 45 30_d59d567c](https://github.com/user-attachments/assets/404ebc53-85b5-4d72-87d3-34546677511a)
+
+
+
 
