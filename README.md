@@ -56,6 +56,10 @@ Berikut Hasil Kode Program Diatas:
 
 ![WhatsApp Image 2024-10-20 at 14 56 38_fec5a7eb](https://github.com/user-attachments/assets/ee1b71a8-6002-4bda-bad1-8564c50ad180)
 
+```PYTHON
+w, x, y, z, =10, 15, 20, 25
+````
+
 
 
 
