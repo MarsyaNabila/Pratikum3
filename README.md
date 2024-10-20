@@ -153,6 +153,31 @@ else:
 ````
 Program ini akan menginputkan 3 bilangan dari a yang sampai dengan c.
 
+```PYTHON
+if a > b and a > c:
+    print(f"angka lebih besar adalah {a}")
+````
+Karna Jika {a} lebih besar dari {b} dan {a} lebih besar dari {c}, output yang keluar adalah {a}
+
+```PYTHON
+elif b > a and b > c:
+   print(f"angka lebih besar adalah {b}")
+````
+dan jika {b} lebih besar dari {a} dan {b} lebih besar dari {c} maka output yang keluar adalah {b}
+
+```PYTHON
+else:
+    print(f"angka lebih besar adalah {c}")
+````
+Jika inputan yang diatas lebih kecil dari {c} maka output {c} yang akan keluar
+
+Ini adala hasil program tersebut :
+
+
+
+
+
+
 
 
 
