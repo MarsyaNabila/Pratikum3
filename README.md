@@ -183,6 +183,81 @@ dan flowchart sebagai berikut:
 
 ![flowechart pemrograman](https://github.com/user-attachments/assets/d8ea2a97-cfc0-47de-ab64-b299ad90531b)
 
+# MENENTUKAN BILANGAN TERBESAR DARI N DAN BERIKAN ANGKA 0
+
+```PYTHON
+while True:   
+    N = int(input("masukan angka: "))
+
+    if N == 0:
+        print(f"angaka terbesar adalah: {max}")
+        break
+    if N > max:
+        max = N
+````
+
+Untuk menentukan bilangan terbesar dari n dalam Python, Anda bisa menggunakan fungsi max()
+
+```PYTHON
+max = 0
+````
+
+Masukkan daftar angka ke fungsi max(), Fungsi max() akan mengembalikan angka terbesar dalam daftar
+
+Fungsi max() adalah fungsi bawaan Python yang berguna untuk menemukan nilai terbesar dalam suatu iterable atau dalam serangkaian argumen reguler.
+
+```PYTHON
+if N == 0:
+        print(f"angka yang terbesar adalah: {max}")
+        break
+````
+Fungsi ini jika Kita memasukan inputan integer yaitu 0 akan berlanjut ke fungsi break program dihentikan yang artinya selesai.
+
+```PYTHON
+if N > max:
+        max = N
+````
+
+Jika Inputan yang kita masukan lebih besar dari fungsi max() di atas, program akan melanjutkan ke proses max = N yang artinya Angka terbesar akan Mencetak Inputan Bilangan yang kita masukan yang terbesar di cetak
+
+```PYTHON
+while True:
+````
+
+While true: adalah konstruksi perulangan dalam bahasa pemrograman Python yang memungkinkan blok kode diulang tanpa batas. dan karna di kode program diatas ada fungsi While True: Program terus berlanjut terus menerus, dan ketika kita ingin berhenti saya berikan decision N==0 dengan fungsi di bawahnya break seperti di atas yang berarti Inputan Integer yang di masukan angka 0 program akan di hentikan dan memunculkan cetakan yang terbesar
+
+dan ini hasil program tersebut:
+
+![WhatsApp Image 2024-10-20 at 16 40 03_ae185a9d](https://github.com/user-attachments/assets/0897b1f9-b0b2-4928-a8ef-8866ed919937)
+
+screnshot kode program:
+
+![WhatsApp Image 2024-10-20 at 16 42 26_81167f60](https://github.com/user-attachments/assets/4c1ee0c5-a9a0-4409-991b-f62568f342c8)
+
+Dan hasil flowchart dari program tersebut:
+
+![2 flowchart](https://github.com/user-attachments/assets/6ca544ac-3600-4c44-9cd0-2d300d2ebce4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
