@@ -176,7 +176,14 @@ Ini adala hasil program tersebut :
 ![WhatsApp Image 2024-10-20 at 15 32 56_30c926cd](https://github.com/user-attachments/assets/cdcdf5e7-4ae7-4873-8e59-5f5bf554f5c0)
 
 dengan eksekusi program:
+
 ![WhatsApp Image 2024-10-20 at 15 35 28_0ace3926](https://github.com/user-attachments/assets/15fb9451-576f-4151-88be-bc5244dae24d)
+
+dan flowchart sebagai berikut:
+
+![flowechart pemrograman](https://github.com/user-attachments/assets/d8ea2a97-cfc0-47de-ab64-b299ad90531b)
+
+
 
 
 
