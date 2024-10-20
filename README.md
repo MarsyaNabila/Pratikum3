@@ -35,6 +35,12 @@ dan ini hasil tanpa menggunakan fungsi print() di tengah pada kode program di at
 
 ![WhatsApp Image 2024-10-20 at 14 45 30_d59d567c](https://github.com/user-attachments/assets/404ebc53-85b5-4d72-87d3-34546677511a)
 
+# PENGGUNAAN SEREPATOR
+
+![WhatsApp Image 2024-10-20 at 14 50 38_602436da](https://github.com/user-attachments/assets/c4c13d67-81fc-4f1a-98ec-40a2d0e72691)
+
+
+
 
 
 
