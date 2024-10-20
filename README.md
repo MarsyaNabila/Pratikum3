@@ -10,5 +10,16 @@
 # PENGGUNAAN END
 # PENGGUNAAN SEREPATOR
 # STRING FORMAT
+# PENGGUNAAN END
+![WhatsApp Image 2024-10-20 at 14 27 49_9caf21d0](https://github.com/user-attachments/assets/d9f11408-f12d-4988-a024-204d97c3e596)
+```PYTHON
+print('A', end='')
+print('b', end='')
+print('c', end='')
+print()
+print('x')
+print('y')
+print('z')
+````
 
 
