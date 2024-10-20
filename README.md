@@ -39,6 +39,26 @@ dan ini hasil tanpa menggunakan fungsi print() di tengah pada kode program di at
 
 
 ![WhatsApp Image 2024-10-20 at 14 50 38_602436da](https://github.com/user-attachments/assets/c4c13d67-81fc-4f1a-98ec-40a2d0e72691)
+```PYTHON
+w, x, y, z, =10, 15, 20, 25
+print(w, x, y, z,)
+print(w, x, y, z, sep=',')
+print(w, x, y, z, sep='')
+print(w, x, y, z, sep=':')
+print(w, x, y, z, sep='-----')
+```
+
+pada python penggunaan serepator dapat menggunakan fungsi split() atau sep yang seperti dalam kode program di atas
+serepator ini menentukan pembatasan yang digunakan untuk memisahkan sting,serepator dapat berupa karakter tunggal atau beberapa karakter.jika tidak ditentukan,maka python akan menggunakan spasi sebagai pemisah.
+
+Berikut Hasil Kode Program Diatas:
+
+![WhatsApp Image 2024-10-20 at 14 56 38_fec5a7eb](https://github.com/user-attachments/assets/ee1b71a8-6002-4bda-bad1-8564c50ad180)
+
+
+
+
+
 
 
 
