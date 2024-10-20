@@ -64,6 +64,15 @@ Variable yang seperti ini menentukan parameter,jadi variable ini tidak bisa mema
 ```PYTHON
 print(w, x, y, z,)
 ````
+Fungsi ini hanya mencetak saja yang menggunakan fungsi print(), tetapi di karenakan mencetak parameter,koma tersebut di hilangkan
+
+```PYTHON
+print(w, x, y, z, sep=',')
+````
+
+karena pemisahnya dihilangkan,kita menggunakan fungsi sepatausplit()dan kita memasukkan pemisahnya didalam string akan memunculkan cetakan yang sesuai keinginan anda dalam memisahkan sesuatu parameter
+
+
 
 
 
