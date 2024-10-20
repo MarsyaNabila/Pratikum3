@@ -59,6 +59,13 @@ Berikut Hasil Kode Program Diatas:
 ```PYTHON
 w, x, y, z, =10, 15, 20, 25
 ````
+Variable yang seperti ini menentukan parameter,jadi variable ini tidak bisa memasukan variable angka yang sudah ditentukan w = 10,x=15,y=20,z=25
+
+```PYTHON
+print(w, x, y, z,)
+````
+
+
 
 
 
